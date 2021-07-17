@@ -1,0 +1,14 @@
+body{
+    background-color:cyan;
+    border:slateblue  5ex ridge;
+}
+#camera{
+    width: 300px;
+    height: 200px;
+    border:lawngreen  10px ridge;
+}
+#result{
+    width: 300px;
+    height: 200px;
+    border:lawngreen  10px ridge;
+}
